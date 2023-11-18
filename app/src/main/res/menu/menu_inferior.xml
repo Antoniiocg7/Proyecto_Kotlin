@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/grafico"
+        android:icon="@drawable/grafico"
+        android:title="@string/IMC" />
+
+    <item
+        android:id="@+id/compartir"
+        android:icon="@drawable/compartir"
+        android:title="@string/compartir" />
+
+    <item
+        android:id="@+id/ubicacion"
+        android:icon="@drawable/localizador"
+        android:title="@string/localizacion" />
+
+    <item
+        android:id="@+id/meditar"
+        android:icon="@drawable/meditacion"
+        android:title="@string/Ejercicios" />
+</menu>

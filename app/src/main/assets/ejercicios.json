@@ -1,0 +1,108 @@
+{
+  "rutinaEjercicios": {
+    "brazos": [
+      {
+        "nombre": "Curl de bíceps con mancuernas",
+        "descripcion": "Ejercicio para el desarrollo de los músculos bíceps utilizando mancuernas."
+      },
+      {
+        "nombre": "Fondos de tríceps",
+        "descripcion": "Ejercicio que enfoca el trabajo en los tríceps, se puede realizar en paralelas o banco."
+      },
+      {
+        "nombre": "Flexiones de brazo",
+        "descripcion": "Ejercicio para fortalecer los brazos y el pecho, realizando un movimiento de empuje contra el suelo."
+      },
+      {
+        "nombre": "Curl de bíceps con barra",
+        "descripcion": "Variante del curl para bíceps utilizando una barra en lugar de mancuernas para un agarre más estable."
+      },
+      {
+        "nombre": "Extensiones de tríceps con cuerda",
+        "descripcion": "Ejercicio enfocado en los tríceps, utilizando una cuerda en la polea alta."
+      },
+      {
+        "nombre": "Curl martillo",
+        "descripcion": "Variante del curl de bíceps que enfatiza el trabajo en el braquial y el antebrazo."
+      }
+    ],
+    "espalda": [
+      {
+        "nombre": "Remo con barra",
+        "descripcion": "Ejercicio compuesto para trabajar la espalda, realizando un movimiento de tracción con la barra."
+      },
+      {
+        "nombre": "Jalón al pecho",
+        "descripcion": "Ejercicio de tracción vertical realizado en polea para trabajar la parte superior de la espalda."
+      },
+      {
+        "nombre": "Peso muerto",
+        "descripcion": "Ejercicio compuesto que involucra múltiples grupos musculares, centrado en la espalda baja y las piernas."
+      },
+      {
+        "nombre": "Remo horizontal con mancuerna",
+        "descripcion": "Ejercicio de tracción unilateral para trabajar la espalda, utilizando una mancuerna."
+      },
+      {
+        "nombre": "Pull-up",
+        "descripcion": "Ejercicio de tracción corporal total que trabaja principalmente la espalda y los brazos."
+      },
+      {
+        "nombre": "Hip thrust",
+        "descripcion": "Ejercicio para fortalecer la espalda baja y los glúteos, realizado en posición supina con peso sobre la pelvis."
+      }
+    ],
+    "pecho": [
+      {
+        "nombre": "Press de banca",
+        "descripcion": "Ejercicio básico para el desarrollo del pecho, se realiza empujando una barra desde el pecho."
+      },
+      {
+        "nombre": "Aperturas con mancuernas",
+        "descripcion": "Ejercicio de aislamiento para el pecho, se realiza abriendo y cerrando los brazos con mancuernas."
+      },
+      {
+        "nombre": "Flexiones",
+        "descripcion": "Ejercicio que utiliza el peso corporal para trabajar el pecho, los hombros y los tríceps."
+      },
+      {
+        "nombre": "Press de banca inclinado",
+        "descripcion": "Variante del press de banca que enfoca más el trabajo en la parte superior del pecho."
+      },
+      {
+        "nombre": "Pullover con mancuerna",
+        "descripcion": "Ejercicio para trabajar el pecho y la espalda, realizado con una mancuerna y acostado en un banco."
+      },
+      {
+        "nombre": "Press de banca declinado",
+        "descripcion": "Variante del press de banca que se centra en la parte inferior del pecho."
+      }
+    ],
+    "piernas": [
+      {
+        "nombre": "Sentadillas",
+        "descripcion": "Ejercicio fundamental para el desarrollo de las piernas y la fuerza del tren inferior."
+      },
+      {
+        "nombre": "Prensa de piernas",
+        "descripcion": "Ejercicio para trabajar las piernas, especialmente el cuádriceps, realizado en máquina de prensa."
+      },
+      {
+        "nombre": "Estocadas",
+        "descripcion": "Ejercicio para fortalecer cuádriceps, glúteos y isquiotibiales, realizado dando un paso largo hacia adelante."
+      },
+      {
+        "nombre": "Elevación de talones",
+        "descripcion": "Ejercicio para fortalecer los músculos de la pantorrilla, elevando los talones del suelo."
+      },
+      {
+        "nombre": "Curl de piernas",
+        "descripcion": "Ejercicio realizado en máquina para trabajar los isquiotibiales."
+      },
+      {
+        "nombre": "Extensión de piernas",
+        "descripcion": "Ejercicio realizado en máquina para fortalecer los cuádriceps."
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:padding="16dp">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:alignmentMode="alignMargins"
+        android:layout_marginTop="200dp"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/boton_brazos"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:text="Brazos"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:backgroundTint="#68BDE4"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/boton_espalda"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:text="Espalda"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:backgroundTint="#68BDE4"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/boton_pecho"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:text="Pecho"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:backgroundTint="#68BDE4"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/boton_pierna"
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:text="Pierna"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:backgroundTint="#68BDE4"
+            android:layout_margin="8dp"/>
+
+    </GridLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

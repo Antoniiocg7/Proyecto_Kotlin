@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="IMC">IMC</string>
+    <string name="compartir">Compartir</string>
+    <string name="localizacion">Localización</string>
+    <string name="Ejercicios">Ejercicios</string>
+</resources>
